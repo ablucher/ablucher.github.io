@@ -8,8 +8,8 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Aurora S. Blucher
   avatar: bio-photo.jpg
-  bio: "Under Construction"
-  email: #emailaddress
+  bio: "Computational biologist. Postdoc in Mills Lab, Knight Cancer Institute"
+  email: blucher@ohsu.edu #emailaddress
   # Do not include the @ symbol in your Twitter username
   twitter: blucher_a #user name
   linkedin: #username
