@@ -12,7 +12,6 @@ Currently I am a postdoctoral fellow in the [Mills Lab](https://www.ohsu.edu/sch
 
 I'm also the Metadata Workgroup Lead for the Knight Data Governance Committee, where I work with an enthusiastic group to assess metadata needs and promote metadata standards for Knight research labs. This fall you'll also find me coordinating logistics for the awesome crew of Girls Who Code PDX. 
 
-
 ## Research Areas
 * Understanding patterns of drug sensivitiy and resistance for cancer therapies
 * Prioritizing combination therapies
@@ -23,16 +22,28 @@ I'm also the Metadata Workgroup Lead for the Knight Data Governance Committee, w
 
 ## Selected Projects
 ### Project: Using Signatures of Replication Stress to Prioritize Combination Therapies, Mills Lab
-### Role: Project Lead
+*Role: Project Lead*
 * Responsible for project design and execution; mining for markers and signatures of replication stress in RNAseq and proteomics data across cell lines, syngeneic mouse models, and patient biopsies; includes mining public patient cohorts and internal Mills Lab datasets
 * Assess concordance of existing signatures/ marker sets and integrate into candidate consensus signature
 * Identify and prioritize drugs for pairing with DNA damage repair inhibitors to target replication stress deficiencies
 
 ### Project: Investigating HER2-Therapy Resistance Drivers with a Novel Live-Cell Imaging Screening Platform, Dr. Samuel Tsang/ Mills Lab. 
-### Role: Collaborator and Analytics Lead
+*Role: Collaborator and Analytics Lead*
 * Responsible for data analytics planning and strategy; wrote data analytics sections for grant; [OHSU Circle of Giving Grant 2020](https://www.ohsu.edu/womens-health/circle-giving) 
 * Carried out analysis for mining public databases to identify key patient HER2 mutation and co-expressed genes according to survival status. 
 * Project manage bioinformatics research assistant performing analytics on drug screening results from functional live-cell imaging platform. 
+
+### Project: The Cancer Targetome (Version 2 Beta), an Evidence-Based Drug Target Compendium
+*Role: Project Lead*
+•	Leading expansion of Cancer Targetome resource from drug-target interaction evidence for 140 drugs to ~400 approved and investigational drugs
+•	Provides target information with supporting evidence across public resources, literature, and experimental binding assay values.
+•	Resource supports drug screening efforts in the precision oncology efforts in the Knight: Beat AML, Head and Neck, and SMMART research teams. 
+
+### Project: A Pathway Perspective on Targeted Therapy Response in Acute Myeloid Leukemia
+*Role: Project Lead*
+•	Adapt and applied a probabilistic pathway modeling framework to assess pathway impact due to somatic mutation alterations in AML patient tumor biopsies; assess pathway impact for key drugs on screening platform 
+•	Expanded codebase to run pathway modeling on high performance computing environment; wrote accompanying SLURM scripts;
+
 
 
 
