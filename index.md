@@ -28,23 +28,23 @@ I'm also the Metadata Workgroup Lead for the Knight Data Governance Committee, w
 * Assess concordance of existing signatures/ marker sets and integrate into candidate consensus signature
 * Identify and prioritize drugs for pairing with DNA damage repair inhibitors to target replication stress deficiencies
 
-#### Project: Investigating HER2-Therapy Resistance Drivers with a Novel Live-Cell Imaging Screening Platform
-*Mills Lab; Collaboration with Dr. Samuel Tsang*  
-*Role: Collaborator and Analytics Lead*
+**Project: Investigating HER2-Therapy Resistance Drivers with a Novel Live-Cell Imaging Screening Platform**<br/>
+**Mills Lab; Collaboration with Dr. Samuel Tsang**<br/>
+**Role: Collaborator and Analytics Lead**<br/>
 * Responsible for data analytics planning and strategy; wrote data analytics sections for grant; [OHSU Circle of Giving Grant 2020](https://www.ohsu.edu/womens-health/circle-giving) 
 * Carried out analysis for mining public databases to identify key patient HER2 mutation and co-expressed genes according to survival status. 
 * Project manage bioinformatics research assistant performing analytics on drug screening results from functional live-cell imaging platform. 
 
-#### Project: The Cancer Targetome (Version 2 Beta), an Evidence-Based Drug Target Compendium  
-*McWeeney Lab*  
-*Role: Project Lead*
+**Project: The Cancer Targetome (Version 2 Beta), an Evidence-Based Drug Target Compendium**<br/>
+**McWeeney Lab**<br/>
+**Role: Project Lead**<br/>
 •	Leading expansion of Cancer Targetome resource from drug-target interaction evidence for 140 drugs to ~400 approved and investigational drugs
 •	Provides target information with supporting evidence across public resources, literature, and experimental binding assay values.
 •	Resource supports drug screening efforts in the precision oncology efforts in the Knight: Beat AML, Head and Neck, and SMMART research teams. 
 
-#### Project: A Pathway Perspective on Targeted Therapy Response in Acute Myeloid Leukemia
-*McWeeney Lab and Beat AML Team*  
-*Role: Project Lead*
+**Project: A Pathway Perspective on Targeted Therapy Response in Acute Myeloid Leukemia**<br/>
+**McWeeney Lab and Beat AML Team**<br/>
+**Role: Project Lead**<br/>
 •	Adapt and applied a probabilistic pathway modeling framework to assess pathway impact due to somatic mutation alterations in AML patient tumor biopsies; assess pathway impact for key drugs on screening platform 
 •	Expanded codebase to run pathway modeling on high performance computing environment; wrote accompanying SLURM scripts;
 
