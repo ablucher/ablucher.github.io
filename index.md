@@ -21,9 +21,9 @@ I'm also the Metadata Workgroup Lead for the Knight Data Governance Committee, w
 * Probabilistic graphical models
 
 ## Selected Projects
-#### Project: Using Signatures of Replication Stress to Prioritize Combination Therapies 
-*Mills Lab*  
-*Role: Project Lead*
+#### Project: Using Signatures of Replication Stress to Prioritize Combination Therapies
+#### Team: Mills Lab
+#### Role: Project Lead
 * Responsible for project design and execution; mining for markers and signatures of replication stress in RNAseq and proteomics data across cell lines, syngeneic mouse models, and patient biopsies; includes mining public patient cohorts and internal Mills Lab datasets
 * Assess concordance of existing signatures/ marker sets and integrate into candidate consensus signature
 * Identify and prioritize drugs for pairing with DNA damage repair inhibitors to target replication stress deficiencies
