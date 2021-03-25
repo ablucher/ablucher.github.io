@@ -10,7 +10,7 @@ My domain area is druggability assessment for targeted therapies in cancer treat
 Currently I am a postdoctoral fellow in the [Mills Lab](https://www.ohsu.edu/school-of-medicine/mills-lab/people) at the Knight Cancer Institute. I work with a collaborative team of researchers to understand how breast, ovarian, and endometrial tumors respond to the therapies we give them, and how to better drug tumors that develop resistance mechanisms to evade our drugs. Some of my projects are highlighted below; I collaborate with precision research groups in both solid and hematological cancers across the Knight. 
 
 
-I'm also the Metadata Workgroup Lead for the Knight Data Governance Committee, where I work with an enthusiastic group to assess metadata needs and promote metadata standards for Knight research labs. This fall you'll also find me coordinating logistics for the awesome crew of Girls Who Code PDX. 
+I'm also the Metadata Workgroup Lead for the Knight Data Governance Committee, where I get to work with an enthusiastic group of scientists to assess metadata needs and promote metadata standards for Knight research labs. This spring you'll also find me coordinating logistics for the awesome crew of [Girls Who Code PDX](https://gwcpdx.github.io/), where we run classes for 7th-12th grade girls to learn how to code.
 
 ## Research Areas
 * Understanding patterns of drug sensivitiy and resistance for cancer therapies
