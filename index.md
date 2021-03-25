@@ -22,14 +22,14 @@ I'm also the Metadata Workgroup Lead for the Knight Data Governance Committee, w
 * Probabilistic graphical models
 
 ## Selected Projects
-###Project: Using Signatures of Replication Stress to Prioritize Combination Therapies, Mills Lab
-###Role: Project Lead
+### Project: Using Signatures of Replication Stress to Prioritize Combination Therapies, Mills Lab
+### Role: Project Lead
 * Responsible for project design and execution; mining for markers and signatures of replication stress in RNAseq and proteomics data across cell lines, syngeneic mouse models, and patient biopsies; includes mining public patient cohorts and internal Mills Lab datasets
 * Assess concordance of existing signatures/ marker sets and integrate into candidate consensus signature
 * Identify and prioritize drugs for pairing with DNA damage repair inhibitors to target replication stress deficiencies
 
-###Project: Investigating HER2-Therapy Resistance Drivers with a Novel Live-Cell Imaging Screening Platform, Dr. Samuel Tsang/ Mills Lab. 
-###Role: Collaborator and Analytics Lead
+### Project: Investigating HER2-Therapy Resistance Drivers with a Novel Live-Cell Imaging Screening Platform, Dr. Samuel Tsang/ Mills Lab. 
+### Role: Collaborator and Analytics Lead
 * Responsible for data analytics planning and strategy; wrote data analytics sections for grant; [OHSU Circle of Giving Grant 2020](https://www.ohsu.edu/womens-health/circle-giving) 
 * Carried out analysis for mining public databases to identify key patient HER2 mutation and co-expressed genes according to survival status. 
 * Project manage bioinformatics research assistant performing analytics on drug screening results from functional live-cell imaging platform. 
