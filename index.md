@@ -35,7 +35,7 @@ I'm also the Metadata Workgroup Lead for the Knight Data Governance Committee, w
 * Carried out analysis for mining public databases to identify key patient HER2 mutation and co-expressed genes according to survival status  
 * Project manage bioinformatics research assistant performing analytics on drug screening results from functional live-cell imaging platform  
 
-**Project: The Cancer Targetome (Version 2 Beta), an Evidence-Based Drug Target Compendium**<br/>
+**Project: [The Cancer Targetome](https://github.com/ablucher/The-Cancer-Targetome) ([Version 2 Beta](https://github.com/ablucher/The-Cancer-Targetome/tree/beta-V2) ), an Evidence-Based Drug Target Compendium**<br/>
 **Team McWeeney Lab**<br/>
 **Role: Project Lead**<br/>
 * Leading expansion of Cancer Targetome resource from drug-target interaction evidence for 140 drugs to ~400 approved and investigational drugs  
